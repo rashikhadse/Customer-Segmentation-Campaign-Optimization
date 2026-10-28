@@ -1,0 +1,13 @@
+segment,product_category,customers_bought,customers_not_bought,penetration
+Champions,Beauty,533,223,0.705
+Champions,Books & Media,528,228,0.6984
+Champions,Electronics,557,199,0.7368
+Champions,Fashion,540,216,0.7143
+Champions,Home & Kitchen,514,242,0.6799
+Champions,Sports & Outdoors,543,213,0.7183
+Loyal Customers,Beauty,519,825,0.3862
+Loyal Customers,Books & Media,560,784,0.4167
+Loyal Customers,Electronics,557,787,0.4144
+Loyal Customers,Fashion,560,784,0.4167
+Loyal Customers,Home & Kitchen,570,774,0.4241
+Loyal Customers,Sports & Outdoors,531,813,0.3951

@@ -1,0 +1,5 @@
+segment,customers,avg_recency_days,avg_frequency,avg_monetary,total_revenue,avg_order_value,repeat_rate,active_90d_rate,customer_share,revenue_share
+Champions,756,22.4193,16.082,1588.3054,1200758.88,94.9321,1.0,1.0,0.216,0.526
+Loyal Customers,1344,53.6027,5.5826,435.544,585371.16,75.8286,0.8772,0.8527,0.384,0.2564
+At-Risk Customers,714,333.1317,7.007,532.8474,380453.07,74.504,1.0,0.0,0.204,0.1667
+Lost Customers,686,484.0773,2.6414,169.1929,116066.31,62.71,0.7697,0.0,0.196,0.0508

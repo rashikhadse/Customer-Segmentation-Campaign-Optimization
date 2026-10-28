@@ -1,0 +1,25 @@
+segment,product_category,revenue,orders,customers,revenue_share_in_segment
+At-Risk Customers,Beauty,39278.44,871,387,0.1032
+At-Risk Customers,Books & Media,22591.19,852,354,0.0594
+At-Risk Customers,Electronics,110900.77,772,334,0.2915
+At-Risk Customers,Fashion,55098.24,790,332,0.1448
+At-Risk Customers,Home & Kitchen,77199.55,832,350,0.2029
+At-Risk Customers,Sports & Outdoors,75384.88,886,357,0.1981
+Champions,Beauty,114380.27,1952,533,0.0953
+Champions,Books & Media,66690.71,1939,528,0.0555
+Champions,Electronics,366506.87,2003,557,0.3052
+Champions,Fashion,187456.99,2128,540,0.1561
+Champions,Home & Kitchen,213383.39,1813,514,0.1777
+Champions,Sports & Outdoors,252340.65,2323,543,0.2102
+Lost Customers,Beauty,12400.85,304,196,0.1068
+Lost Customers,Books & Media,8818.38,327,210,0.076
+Lost Customers,Electronics,34634.79,275,185,0.2984
+Lost Customers,Fashion,17386.73,311,202,0.1498
+Lost Customers,Home & Kitchen,20856.4,285,185,0.1797
+Lost Customers,Sports & Outdoors,21969.16,310,195,0.1893
+Loyal Customers,Beauty,55574.78,1207,519,0.0949
+Loyal Customers,Books & Media,36475.78,1275,560,0.0623
+Loyal Customers,Electronics,181829.9,1218,557,0.3106
+Loyal Customers,Fashion,86856.88,1270,560,0.1484
+Loyal Customers,Home & Kitchen,116269.6,1283,570,0.1986
+Loyal Customers,Sports & Outdoors,108364.22,1250,531,0.1851
